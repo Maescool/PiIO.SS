@@ -1,0 +1,3 @@
+[submodule "pi_io_site/static/bootstrap"]
+	path = pi_io_site/static/bootstrap
+	url = https://github.com/twbs/bootstrap.git
